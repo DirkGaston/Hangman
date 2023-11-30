@@ -67,6 +67,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://devdocs.io/javascript/)
 - [React](https://reactjs.org/)
+  
+## Try it! 🎮 
+[Link](https://dg-hangman-game.netlify.app/)
 
 ## Contact 📫
 
